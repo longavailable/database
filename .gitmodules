@@ -1,0 +1,3 @@
+[submodule "data/datarepo01"]
+	path = data/datarepo01
+	url = https://github.com/longavailable/datarepo01.git
