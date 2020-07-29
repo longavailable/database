@@ -4,3 +4,6 @@
 [submodule "data/datarepo02"]
 	path = data/datarepo02
 	url = https://github.com/longavailable/datarepo02.git
+[submodule "graphs/graphrepo01"]
+	path = graphs/graphrepo01
+	url = https://github.com/longavailable/graphrepo01.git
