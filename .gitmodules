@@ -1,3 +1,6 @@
 [submodule "data/datarepo01"]
 	path = data/datarepo01
 	url = https://github.com/longavailable/datarepo01.git
+[submodule "data/datarepo02"]
+	path = data/datarepo02
+	url = https://github.com/longavailable/datarepo02.git
