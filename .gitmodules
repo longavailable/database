@@ -7,3 +7,6 @@
 [submodule "graphs/graphrepo01"]
 	path = graphs/graphrepo01
 	url = https://github.com/longavailable/graphrepo01.git
+[submodule "thematics/global-urban-growth-db"]
+	path = thematics/global-urban-growth-db
+	url = https://github.com/longavailable/global-urban-growth-db.git
