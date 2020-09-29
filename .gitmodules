@@ -16,3 +16,6 @@
 [submodule "graphs/ydm-historical-rainfall-graphs"]
 	path = graphs/ydm-historical-rainfall-graphs
 	url = https://github.com/longavailable/ydm-historical-rainfall-graphs.git
+[submodule "data/ydm-population-gdp-db"]
+	path = data/ydm-population-gdp-db
+	url = https://github.com/longavailable/ydm-population-gdp-db.git
