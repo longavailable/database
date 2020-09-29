@@ -19,3 +19,6 @@
 [submodule "data/ydm-population-gdp-db"]
 	path = data/ydm-population-gdp-db
 	url = https://github.com/longavailable/ydm-population-gdp-db.git
+[submodule "data/ydm-gdb"]
+	path = data/ydm-gdb
+	url = https://github.com/longavailable/ydm-gdb.git
