@@ -25,3 +25,6 @@
 [submodule "graphs/graphrepo02"]
 	path = graphs/graphrepo02
 	url = https://github.com/longavailable/graphrepo02.git
+[submodule "data/georepo"]
+	path = data/georepo
+	url = https://github.com/longavailable/georepo.git
