@@ -22,3 +22,6 @@
 [submodule "data/ydm-gdb"]
 	path = data/ydm-gdb
 	url = https://github.com/longavailable/ydm-gdb.git
+[submodule "graphs/graphrepo02"]
+	path = graphs/graphrepo02
+	url = https://github.com/longavailable/graphrepo02.git
