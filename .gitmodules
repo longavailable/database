@@ -28,3 +28,6 @@
 [submodule "data/georepo"]
 	path = data/georepo
 	url = https://github.com/longavailable/georepo.git
+[submodule "data/cmip6-terms"]
+	path = data/cmip6-terms
+	url = https://github.com/longavailable/cmip6-terms.git
