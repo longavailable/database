@@ -31,3 +31,6 @@
 [submodule "data/cmip6-terms"]
 	path = data/cmip6-terms
 	url = https://github.com/longavailable/cmip6-terms.git
+[submodule "graphs/deep-learning-network-architectures"]
+	path = graphs/deep-learning-network-architectures
+	url = https://github.com/longavailable/deep-learning-network-architectures
