@@ -34,3 +34,6 @@
 [submodule "graphs/deep-learning-network-architectures"]
 	path = graphs/deep-learning-network-architectures
 	url = https://github.com/longavailable/deep-learning-network-architectures
+[submodule "translation/omegat-projects"]
+	path = translation/omegat-projects
+	url = https://github.com/longavailable/omegat-projects
